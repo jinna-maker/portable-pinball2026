@@ -69,7 +69,7 @@ The project is also educational because it helps learners understand:
 
 The 3D printing files are available for free download on MakerWorld:
 
-👉 **Download on MakerWorld:** [Add your MakerWorld link here]([https://makerworld.com/](https://makerworld.com/en/@jinna.maker))
+👉 **Download on MakerWorld:** [https://makerworld.com/en/@jinna.maker]
 
 ## Creator
 
