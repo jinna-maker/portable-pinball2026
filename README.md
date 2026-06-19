@@ -72,9 +72,8 @@ The project is also educational because it helps learners understand:
 The 3D printing files are available for free download on MakerWorld:
 
 👉 **Download on MakerWorld:** [https://makerworld.com/en/@jinna.maker]
+![Portable Pinball](images/pinball2.png)
 
-## Creator
 
-Created by **Jinna Arunplod**
-AIT International School
-Jinna Maker
+## Creator  : Created by **Jinna Arunplod**
+AIT International School ,  Jinna Maker
