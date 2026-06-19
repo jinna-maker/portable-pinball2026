@@ -4,6 +4,8 @@
 
 This project was designed as a hands-on maker project to demonstrate how CAD design, 3D printing, and basic mechanical mechanisms can be combined to create a fun and functional toy.
 
+![Portable Pinball](images/pinball1.png)
+
 ## Project Concept
 
 Portable Pinball is designed to be a mini mechanical pinball machine that can be printed, assembled, and played without electronics. The main idea is to create a simple but fun game that uses mechanical movement such as a ball launcher, flippers, rails, and obstacle parts.
